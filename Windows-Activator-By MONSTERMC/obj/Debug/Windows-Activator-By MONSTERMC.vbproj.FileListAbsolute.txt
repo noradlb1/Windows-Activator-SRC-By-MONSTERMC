@@ -1,0 +1,13 @@
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\bin\Debug\Windows-Activator-By MONSTERMC.exe
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\bin\Debug\Windows-Activator-By MONSTERMC.pdb
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\bin\Debug\Windows-Activator-By MONSTERMC.xml
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows_Activator_By_MONSTERMC.Windows_Activator.Form1.resources
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows_Activator_By_MONSTERMC.Windows_Activator.Form2.resources
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows_Activator_By_MONSTERMC.Windows_Activator.Form3.resources
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows_Activator_By_MONSTERMC.Form4.resources
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows_Activator_By_MONSTERMC.Resources.resources
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows-Activator-By MONSTERMC.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows-Activator-By MONSTERMC.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows-Activator-By MONSTERMC.exe
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows-Activator-By MONSTERMC.xml
+C:\Users\MONSTERMC\source\repos\Windows-Activator-By MONSTERMC\Windows-Activator-By MONSTERMC\obj\Debug\Windows-Activator-By MONSTERMC.pdb
